@@ -1,5 +1,5 @@
 {
-  "name": "notion-client",
+  "name": "@bullet-so/notion-client",
   "version": "6.16.2",
   "type": "module",
   "description": "Robust TypeScript client for the unofficial Notion API.",
