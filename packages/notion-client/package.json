@@ -1,6 +1,6 @@
 {
   "name": "@bullet-so/notion-client",
-  "version": "6.16.6",
+  "version": "6.16.7",
   "type": "module",
   "description": "Robust TypeScript client for the unofficial Notion API.",
   "repository": "bullet-so/react-notion-x",
